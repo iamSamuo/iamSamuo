@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamSamuo
+- 👋 Hi, I’m Sammy Kariuki
 - 👀 I’m interested in Front end development( javacript, react,html and css).
 - 🌱 I’m currently learning React hooks
 - 💞️ I’m looking to collaborate on Javascript and React Flamework.
