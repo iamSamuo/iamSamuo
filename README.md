@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/samuokimkenya" target="blank"><img src="https://img.shields.io/twitter/follow/samuokimkenya?logo=twitter&style=for-the-badge" alt="samuokimkenya" /></a> </p>
 
-- 🔭 I’m currently working on **Perfecting MERN stack**
+- 🌱 I’m currently learning **Kotlin**
 
-- 🌱 I’m currently learning **Redux**
-
-- 👯 I’m looking to collaborate on **JavaScript, React,Redux**
-
-- 🤝 I’m looking for help with **JavaScript, ReactJs,Redux.**
+- 👯 I’m looking to collaborate on **JavaScript, React,Redux,Java, Angular,C#,.NET and Springboot**
 
 - 👨‍💻 All of my projects are available at [https://samuocodes.netlify.app/]
 
